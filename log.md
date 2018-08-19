@@ -6,7 +6,7 @@ I have learnt how to do data preprocessing.In this i learnt how to manage missin
 
 <br/>
 
-- ## Day 2 | 19 August 2018 
+- ## Day 2 | 18 August 2018 
 #### progress : 
 I have learnt simple linear regression and implement it. 
 #### work :

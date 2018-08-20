@@ -26,3 +26,13 @@ Today I learned ploynomial regression and implement it in jupyter notebook using
 #### progress :
 I have completed python for data science.I learnt it from the video avilable on Youtube.
 
+ <br/>
+  
+  - ## Day 6 | 21 August 2018 
+#### progress :
+I have completed learning of multiple regression algorithm which is classification type of suerwised learning.
+
+## work :
+  [multi regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/4)
+
+

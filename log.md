@@ -14,8 +14,15 @@ I have learnt simple linear regression and implement it.
   
   <br/>
   
-  - ## Day 2 | 18 August 2018 
+  - ## Day 3 | 19 August 2018 
 #### progress : 
 Today I learned ploynomial regression and implement it in jupyter notebook using python
 #### work :
   [polynomial regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/3)
+    
+    <br/>
+  
+  - ## Day 4 | 20 August 2018 
+#### progress :
+I have completed python for data science.I learnt it from the video avilable on Youtube.
+

@@ -20,7 +20,7 @@ Today I learned ploynomial regression and implement it in jupyter notebook using
 #### work :
   [polynomial regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/3)
     
-    <br/>
+  <br/>
   
   - ## Day 4 | 20 August 2018 
 #### progress :

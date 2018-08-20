@@ -28,11 +28,11 @@ I have completed python for data science.I learnt it from the video avilable on 
 
  <br/>
   
-  - ## Day 6 | 21 August 2018 
+  - ## Day 5 | 21 August 2018 
 #### progress :
 I have completed learning of multiple regression algorithm which is classification type of suerwised learning.
 
 ## work :
-  [multi regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/4)
+  [multi regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/5)
 
 

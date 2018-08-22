@@ -35,4 +35,12 @@ I have completed learning of multiple regression algorithm which is classificati
 ## work :
   [multi regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/5)
 
+ <br/>
+  
+  - ## Day 6 | 22 August 2018 
+#### progress :
+Today I have learnt about classification and algorithm use for classification .Logistic regression is an algorithm which is use for classification problems.Though it is regression , it is not use for regression problems.
+
+## work :
+  [logistic regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/6)
 

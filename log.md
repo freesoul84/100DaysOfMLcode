@@ -43,4 +43,9 @@ Today I have learnt about classification and algorithm use for classification .L
 
 ## work :
   [logistic regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/6)
-
+  
+  <br/>
+  
+  - ## Day 7 | 23 August 2018 
+#### progress :
+Today I learnt pandas and numpy from "python for data science and machine learning for bootcamp"

@@ -88,7 +88,7 @@ Watched Andrew Ng videos of machine learning which are avialble on youtube. I ha
   
   - ## Day 14 | 30 August 2018 
 #### progress :
-I learn some articles on deep learning from medium. and watch some videos of deep learning introduction to understand the term.
+I read some articles on deep learning from medium. and watch some videos of deep learning introduction to understand the term.
   <br/>
   
   - ## Day 15 | 31 August 2018 

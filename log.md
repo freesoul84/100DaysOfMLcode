@@ -49,3 +49,48 @@ Today I have learnt about classification and algorithm use for classification .L
   - ## Day 7 | 23 August 2018 
 #### progress :
 Today I learnt pandas and numpy from "python for data science and machine learning for bootcamp"
+  
+  <br/>
+  
+  - ## Day 8 | 24 August 2018 
+#### progress :
+I didn't updated my logs from past 8 days.But now I am updating it.I have brushed up basic concepts of linear algebra,calculus ,probability theory.
+  
+  <br/>
+  
+  - ## Day 9 | 25 August 2018 
+#### progress :
+I have learn tenserflow from videos of edureka and simplilearn youtube channel.
+  
+  <br/>
+  
+  - ## Day 10 | 26 August 2018 
+#### progress :
+Spot out the difference between superwised and unsuperwised machine learning. I learnt theory behind clustering and association which are types of unsuperwised machine learning algorithm.
+
+  <br/>
+  
+  - ## Day 11 | 27 August 2018 
+#### progress :
+I have implemented k-means clustering algorithm in python.
+  
+  <br/>
+  
+  - ## Day 12 | 28 August 2018 
+#### progress :
+Learnt the theory of hierarchial clustering.
+  <br/>
+  
+  - ## Day 13 | 29 August 2018 
+#### progress :
+Watched Andrew Ng videos of machine learning which are avialble on youtube. I have watched only linear regression ,polynomial regression videos and understand it therotically(gradiant descent,cost function,stochestic gradient descent).
+  <br/>
+  
+  - ## Day 14 | 30 August 2018 
+#### progress :
+I learn some articles on deep learning from medium. and watch some videos of deep learning introduction to understand the term.
+  <br/>
+  
+  - ## Day 15 | 31 August 2018 
+#### progress :
+I have understood the difference between ANN(Artificial Neural Network) vs CNN(COnvolution Neural Network) vs RNN(Recurrent Neural Network)

@@ -94,3 +94,14 @@ I read some articles on deep learning from medium. and watch some videos of deep
   - ## Day 15 | 31 August 2018 
 #### progress :
 I have understood the difference between ANN(Artificial Neural Network) vs CNN(COnvolution Neural Network) vs RNN(Recurrent Neural Network)
+  <br/>
+  
+  - ## Day 16 | 1 September 2018 
+#### progress :
+Learnt about naive bayes classifier and therotical implementation of it.I haven't implement it practically but I will do it in upcoming days.
+<br/>
+
+  - ## Day 17 | 2 September 2018 
+#### progress :
+Learnt decision tree classification algorithm of superwised learning.
+

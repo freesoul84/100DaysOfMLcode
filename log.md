@@ -113,7 +113,7 @@ Implement apriori alogirhtm for making recommend system using a market based dat
 <br/>
 
 
-  - ## Day 18 | 4 September 2018 
+  - ## Day 19 | 4 September 2018 
 #### progress :
 Only brushing up of probability concepts was not sufficient for me so I learnt it again from BloomReach channel of youtube
 <br/>

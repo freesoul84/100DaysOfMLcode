@@ -105,3 +105,7 @@ Learnt about naive bayes classifier and therotical implementation of it.I haven'
 #### progress :
 Learnt decision tree classification algorithm of superwised learning.
 
+  - ## Day 18 | 3 September 2018 
+#### progress :
+Implement apriori alogirhtm for making recommend system using a market based data
+

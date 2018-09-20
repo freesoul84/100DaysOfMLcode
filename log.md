@@ -111,3 +111,9 @@ Implement apriori alogirhtm for making recommend system using a market based dat
   
   [recommend system](https://github.com/keshab97/100DaysOfMLcode/tree/master/recommendsystem)
 <br/>
+
+
+  - ## Day 18 | 4 September 2018 
+#### progress :
+Only brushing up of probability concepts was not sufficient for me so I learnt it again from BloomReach channel of youtube
+<br/>

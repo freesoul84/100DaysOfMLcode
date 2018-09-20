@@ -35,4 +35,77 @@ I have completed learning of multiple regression algorithm which is classificati
 ## work :
   [multi regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/5)
 
+ <br/>
+  
+  - ## Day 6 | 22 August 2018 
+#### progress :
+Today I have learnt about classification and algorithm use for classification .Logistic regression is an algorithm which is use for classification problems.Though it is regression , it is not use for regression problems.
+
+## work :
+  [logistic regression](https://github.com/keshab97/100DaysOfMLcode/tree/master/6)
+  
+  <br/>
+  
+  - ## Day 7 | 23 August 2018 
+#### progress :
+Today I learnt pandas and numpy from "python for data science and machine learning for bootcamp"
+  
+  <br/>
+  
+  - ## Day 8 | 24 August 2018 
+#### progress :
+I didn't updated my logs from past 8 days.But now I am updating it.I have brushed up basic concepts of linear algebra,calculus ,probability theory.
+  
+  <br/>
+  
+  - ## Day 9 | 25 August 2018 
+#### progress :
+I have learn tenserflow from videos of edureka and simplilearn youtube channel.
+  
+  <br/>
+  
+  - ## Day 10 | 26 August 2018 
+#### progress :
+Spot out the difference between superwised and unsuperwised machine learning. I learnt theory behind clustering and association which are types of unsuperwised machine learning algorithm.
+
+  <br/>
+  
+  - ## Day 11 | 27 August 2018 
+#### progress :
+I have implemented k-means clustering algorithm in python.
+  
+  <br/>
+  
+  - ## Day 12 | 28 August 2018 
+#### progress :
+Learnt the theory of hierarchial clustering.
+  <br/>
+  
+  - ## Day 13 | 29 August 2018 
+#### progress :
+Watched Andrew Ng videos of machine learning which are avialble on youtube. I have watched only linear regression ,polynomial regression videos and understand it therotically(gradiant descent,cost function,stochestic gradient descent).
+  <br/>
+  
+  - ## Day 14 | 30 August 2018 
+#### progress :
+I read some articles on deep learning from medium. and watch some videos of deep learning introduction to understand the term.
+  <br/>
+  
+  - ## Day 15 | 31 August 2018 
+#### progress :
+I have understood the difference between ANN(Artificial Neural Network) vs CNN(COnvolution Neural Network) vs RNN(Recurrent Neural Network)
+  <br/>
+  
+  - ## Day 16 | 1 September 2018 
+#### progress :
+Learnt about naive bayes classifier and therotical implementation of it.I haven't implement it practically but I will do it in upcoming days.
+<br/>
+
+  - ## Day 17 | 2 September 2018 
+#### progress :
+Learnt decision tree classification algorithm of superwised learning.
+
+  - ## Day 18 | 3 September 2018 
+#### progress :
+Implement apriori alogirhtm for making recommend system using a market based data
 

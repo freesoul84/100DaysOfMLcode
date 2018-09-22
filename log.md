@@ -117,3 +117,72 @@ Implement apriori alogirhtm for making recommend system using a market based dat
 #### progress :
 Only brushing up of probability concepts was not sufficient for me so I learnt it again from BloomReach channel of youtube
 <br/>
+
+  - ## Day 20 | 5 September 2018 
+#### progress :
+On this day I have learnt tree based modeling from scratch using python.
+  
+<br/>
+
+  - ## Day 21 | 6 September 2018 
+#### progress :
+Learnt support vector machine algorithm of superwised learning and implement it.
+
+<br/>
+
+  - ## Day 22 | 7 September 2018 
+#### progress :
+Learnt support vector machine algorithm of superwised learning and implement it.
+
+<br/>
+
+  - ## Day 23 | 8 September 2018 
+#### progress :
+I learnt types of regression techniques present and how it works.
+
+<br/>
+
+  - ## Day 24 | 9 September 2018 
+#### progress :
+Started learning statistic from the book "All of Statistics".
+
+<br/>
+
+  - ## Day 25 | 10 September 2018 
+#### progress :
+Got introduced to reinforcement learning basics.
+
+<br/>
+
+  - ## Day 26 | 11 September 2018 
+#### progress :
+Got introduced to reinforcement learning basics.
+
+<br/>
+
+  - ## Day 27 | 12 September 2018 
+#### progress :
+Started Learning of Ensemble modeling
+
+<br/>
+
+  - ## Day 28 | 13 September 2018 
+#### progress :
+Read a blog from analytics vidya "Easy questions on Ensemble Modeling everyone should know"
+
+<br/>
+
+  - ## Day 29 | 14 September 2018 
+#### progress :
+Implement Ensemble Learning using Python Code.
+
+<br/>
+
+  - ## Day 30 | 15 September 2018 
+#### progress :
+Learnt how to find outliers from data.
+
+<br/>
+
+
+

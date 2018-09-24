@@ -169,7 +169,6 @@ Started Learning of Ensemble modeling
   - ## Day 28 | 13 September 2018 
 #### progress :
 Read a blog from analytics vidya "Easy questions on Ensemble Modeling everyone should know"
-
 <br/>
 
   - ## Day 29 | 14 September 2018 
@@ -182,6 +181,12 @@ Implement Ensemble Learning using Python Code.
 #### progress :
 Learnt how to find outliers from data.
 
+<br/>
+
+  - ## Day 31 | 24 September 2018 
+#### progress :
+Implement support vector machine algorithm using python in jupyter notebook
+[svm](https://github.com/keshab97/100DaysOfMLcode/tree/master/svm)
 <br/>
 
 

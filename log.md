@@ -196,5 +196,25 @@ Implement support vector machine algorithm using python in jupyter notebook
 [svm](https://github.com/keshab97/100DaysOfMLcode/tree/master/svm)
 <br/>
 
+  - ## Day 32 | 30 September 2018 
+#### progress :
+Started watching videos on machine learning by Andrew Ng.
+<br/>
+
+  - ## Day 33 | 1 October 2018 
+#### progress :
+Started learning Natural Language processing using deep learning 
+<br/>
+
+  - ## Day 34 | 2 October 2018 
+#### progress :
+Learnt what is Recurrent Neural Network, Lont Short Term Memory(LSTM) in depth.
+<br/>
+
+  - ## Day 35 |3 October 2018 
+#### progress :
+Started learning deep learning with Keras using deeplizard channel on youtube
+<br/>
+
 
 

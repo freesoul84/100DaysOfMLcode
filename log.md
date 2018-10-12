@@ -221,7 +221,7 @@ Started learning deep learning with Keras using deeplizard channel on youtube
 Started deep learning videos series from deeizard channel on youtube
 <br/>
 
-  - ## Day 37,38,39,49,41 |10 October 2018 
+  - ## Day 37 to 41 |10 October 2018 
 #### progress :
 Completed deep learning playlist from previous given channel of youtube
 <br/>

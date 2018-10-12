@@ -216,5 +216,15 @@ Learnt what is Recurrent Neural Network, Lont Short Term Memory(LSTM) in depth.
 Started learning deep learning with Keras using deeplizard channel on youtube
 <br/>
 
+  - ## Day 36 |5 October 2018 
+#### progress :
+Started deep learning videos series from deeizard channel on youtube
+<br/>
+
+  - ## Day 37,38,39,49,41 |10 October 2018 
+#### progress :
+Completed deep learning playlist from previous given channel of youtube
+<br/>
+
 
 

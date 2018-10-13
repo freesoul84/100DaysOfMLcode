@@ -226,6 +226,7 @@ Started deep learning videos series from deeplizard channel on youtube
 Completed deep learning playlist from previous given channel of youtube
 <br/>
 
--## Day 42 to 44 | 14 October 2018
-#### Progress :
+  - ## Day 42 to 44 | 14 October 2018
+#### progress :
 Learned keras and build a CNN to using sequential model. Also learned how to save model.
+<br/>

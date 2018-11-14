@@ -230,3 +230,8 @@ Completed deep learning playlist from previous given channel of youtube
 #### progress :
 Learned keras and build a CNN to using sequential model. Also learned how to save model.
 <br/>
+
+ - ## Day 58  November 2018
+#### progress :
+Use google colaboratory for classifying cat and dog images using CNN.I havn't updated works of 14 days but i will soon update it after tracking which topic i did each day
+<br/>

@@ -1,7 +1,13 @@
 - ## Day 1 | 17 August 2018 
 #### progress : 
 I have learnt how to do data preprocessing.In this i learnt how to manage missing data and  categorical data. 
-#### work :
+#### 
+
+
+
+
+
+:
   [datapreprocessing](https://github.com/keshab97/100DaysOfMLcode/tree/master/1)
 
 <br/>
@@ -169,7 +175,6 @@ Started Learning of Ensemble modeling
   - ## Day 28 | 13 September 2018 
 #### progress :
 Read a blog from analytics vidya "Easy questions on Ensemble Modeling everyone should know"
-
 <br/>
 
   - ## Day 29 | 14 September 2018 
@@ -184,5 +189,93 @@ Learnt how to find outliers from data.
 
 <br/>
 
+  - ## Day 31 | 24 September 2018 
+#### progress :
+Implement support vector machine algorithm using python in jupyter notebook
+#### work :
+[svm](https://github.com/keshab97/100DaysOfMLcode/tree/master/svm)
+<br/>
 
+  - ## Day 32 | 30 September 2018 
+#### progress :
+Started watching videos on machine learning by Andrew Ng.
+<br/>
+
+  - ## Day 33 | 1 October 2018 
+#### progress :
+Started learning Natural Language processing using deep learning 
+<br/>
+
+  - ## Day 34 | 2 October 2018 
+#### progress :
+Learnt what is Recurrent Neural Network, Lont Short Term Memory(LSTM) in depth.
+<br/>
+
+  - ## Day 35 |3 October 2018 
+#### progress :
+Started learning deep learning with Keras using deeplizard channel on youtube
+<br/>
+
+  - ## Day 36 |5 October 2018 
+#### progress :
+Started deep learning videos series from deeplizard channel on youtube
+<br/>
+
+  - ## Day 37 to 41 |10 October 2018 
+#### progress :
+Completed deep learning playlist from previous given channel of youtube
+<br/>
+
+  - ## Day 42 to 44 | 14 October 2018
+#### progress :
+Learned keras and build a CNN to using sequential model. Also learned how to save model.
+<br/>
+
+ - ## Day 58  | 10 November 2018
+#### progress :
+Use google colaboratory for classifying cat and dog images using CNN.I havn't updated works of 14 days but i will soon update it after tracking which topic i did each day
+<br/>
+
+
+- ## Day 59  15 November 2018
+#### progress 
+Implement  kaggle dataset of  and performed EDA but I kept kernel private :p.I will update them soon .
+<br/>
+
+- ## Day 60  20 November 2018
+#### progress 
+
+<br/>
+
+- ## Day 61  22 November 2018
+#### progress 
+Tried adding database in google colaboratory for first time because  and implement linear regression. 
+<br/>
+
+
+- ## Day 62  23 November 2018
+#### progress :
+Use google colaboratory for classifying cat and dog images using CNN.I havn't updated works of 14 days but i will soon update it after tracking which topic i did each day
+<br/>
+
+- ## Day 63  24 November 2018
+#### progress :
+Use google colaboratory for classifying cat and dog images using CNN.I havn't updated works of 14 days but i will soon update it after tracking which topic i did each day
+<br/>
+
+- ## Day 64  25 November 2018
+#### progress :
+Started learning opencv from opencv official site and pyimagesearch.
+<br/>
+
+- ## Day 65  1  December 2018
+#### progress :
+Learning basic of image processing ,video processing and implemented some basic codes avilable on opencv official site
+<br/>
+
+- ## Day 66  2 December 2018
+#### progress :
+Implement the object tracking code from pyimagesearch and do some experiment by adding additional feature  in code.
+Implement face recognization and eye recognization from opencv official site and understood basic consepts and algorithm
+<br/>
 

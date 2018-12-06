@@ -6,6 +6,7 @@ import seaborn as sns
 from sklearn.svm import SVC 
 from sklearn.metrics import classification_report, confusion_matrix
 import pickle
+from sklearn.externals import joblib
 
 #import a data of breast cancer
 from sklearn.datasets import load_breast_cancer

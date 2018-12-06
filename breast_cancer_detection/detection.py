@@ -6,7 +6,6 @@ import seaborn as sns
 from sklearn.svm import SVC 
 from sklearn.metrics import classification_report, confusion_matrix
 import pickle
-from sklearn.externals import joblib
 
 #import a data of breast cancer
 from sklearn.datasets import load_breast_cancer
@@ -137,14 +136,14 @@ pickle.dump(grid, open(filename_3, 'wb'))
 # load the model from disk svc
 loaded_model_1= pickle.load(open(filename_1, 'rb'))
 result_svm = loaded_model_1.score(X_test, y_test)
-print("Score result of SVC:",result_svm)
+print("Score result of SVC : ",result_svm)
 
 # load the model from disk after normalization
 loaded_model_2 = pickle.load(open(filename_2, 'rb'))
 result_normalization = loaded_model_2.score(X_test_normal, y_test)
-print("Score result after notmalization",result_normalization)
+print("Score result after notmalization :",result_normalization)
 
 # load the model from disk after adjusting gamma and c parameter
 loaded_model_3 = pickle.load(open(filename_3, 'rb'))
 result_grid = loaded_model_3.score(X_test_normal, y_test)
-print("Score result after adjusting c and gamma parameter of SVC",result_grid)
+print("Score result after adjusting c and gamma parameter of SVC :",result_grid)

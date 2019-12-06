@@ -230,3 +230,52 @@ Completed deep learning playlist from previous given channel of youtube
 #### progress :
 Learned keras and build a CNN to using sequential model. Also learned how to save model.
 <br/>
+
+ - ## Day 58  | 10 November 2018
+#### progress :
+Use google colaboratory for classifying cat and dog images using CNN.I havn't updated works of 14 days but i will soon update it after tracking which topic i did each day
+<br/>
+
+
+- ## Day 59  15 November 2018
+#### progress 
+Implement  kaggle dataset of  and performed EDA but I kept kernel private :p.I will update them soon .
+<br/>
+
+- ## Day 60  20 November 2018
+#### progress 
+
+<br/>
+
+- ## Day 61  22 November 2018
+#### progress 
+Tried adding database in google colaboratory for first time because  and implement linear regression. 
+<br/>
+
+
+- ## Day 62  23 November 2018
+#### progress :
+Use google colaboratory for classifying cat and dog images using CNN.I havn't updated works of 14 days but i will soon update it after tracking which topic i did each day
+<br/>
+
+- ## Day 63  24 November 2018
+#### progress :
+Use google colaboratory for classifying cat and dog images using CNN.I havn't updated works of 14 days but i will soon update it after tracking which topic i did each day
+<br/>
+
+- ## Day 64  25 November 2018
+#### progress :
+Started learning opencv from opencv official site and pyimagesearch.
+<br/>
+
+- ## Day 65  1  December 2018
+#### progress :
+Learning basic of image processing ,video processing and implemented some basic codes avilable on opencv official site
+<br/>
+
+- ## Day 66  2 December 2018
+#### progress :
+Implement the object tracking code from pyimagesearch and do some experiment by adding additional feature  in code.
+Implement face recognization and eye recognization from opencv official site and understood basic consepts and algorithm
+<br/>
+
